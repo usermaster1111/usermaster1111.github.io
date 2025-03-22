@@ -1,4 +1,4 @@
-body{margin: 0; background: url(img/fon.jpeg); background-repeat: no-repeat; background-size: cover; background-position: center}
+body{margin: 0; background: url(fon.jpeg); background-repeat: no-repeat; background-size: cover; background-position: center}
 .a1{width: 400px;margin: 30px auto;  padding: 20px;background-color: #fff;box-shadow: 0 5px 10px #ccc;border-radius: 10px}
 .a2{display: block;width: 200px;height: 200px;margin: auto; border-radius: 50%}
 .a3{font-size: 20px; text-align: center;color: darkgreen }
